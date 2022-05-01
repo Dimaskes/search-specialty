@@ -1,0 +1,304 @@
+{
+  "data": [
+    {
+      "title": "Аллерголог",
+      "id": "9440",
+      "url": "vrachi/allergolog",
+      "type": "spec"
+    },
+    {
+      "title": "Андролог",
+      "id": "11690",
+      "url": "vrachi/androlog",
+      "type": "spec"
+    },
+    {
+      "title": "Артролог",
+      "id": "7757",
+      "url": "vrachi/artrolog",
+      "type": "spec"
+    },
+    {
+      "title": "Вегетолог",
+      "id": "8385",
+      "url": "vrachi/vegetolog",
+      "type": "spec"
+    },
+    {
+      "title": "Вертебролог",
+      "id": "7758",
+      "url": "vrachi/vertebrolog",
+      "type": "spec"
+    },
+    {
+      "title": "Вертеброневролог",
+      "id": "7759",
+      "url": "vrachi/vertebronevrolog",
+      "type": "spec"
+    },
+    {
+      "title": "Висцеральный массажист",
+      "id": "8170",
+      "url": "vrachi/visczeralnyj-massazhist",
+      "type": "spec"
+    },
+    {
+      "title": "Висцеральный терапевт",
+      "id": "7760",
+      "url": "vrachi/visczeralnyij-terapevt",
+      "type": "spec"
+    },
+    {
+      "title": "Врач восточной медицины",
+      "id": "7763",
+      "url": "vrachi/vrach-vostochnoj-mediczinyi",
+      "type": "spec"
+    },
+    {
+      "title": "Врач китайской медицины",
+      "id": "7764",
+      "url": "vrachi/vrach-kitayskoy-mediciny",
+      "type": "spec"
+    },
+    {
+      "title": "Врач ЛФК",
+      "id": "7761",
+      "url": "vrachi/vrach-lfk",
+      "type": "spec"
+    },
+    {
+      "title": "Врач общей практики",
+      "id": "7765",
+      "url": "vrachi/vrach-obshhey-praktiki",
+      "type": "spec"
+    },
+    {
+      "title": "Врач первичного приёма",
+      "id": "7766",
+      "url": "vrachi/vrach-pervichnogo-priema",
+      "type": "spec"
+    },
+    {
+      "title": "Врач тибетской медицины",
+      "id": "7767",
+      "url": "vrachi/vrach-tibetskoy-mediciny",
+      "type": "spec"
+    },
+    {
+      "title": "Врач УВТ",
+      "id": "7762",
+      "url": "vrachi/vrach-uvt",
+      "type": "spec"
+    },
+    {
+      "title": "Врач УЗИ",
+      "id": "8386",
+      "url": "vrachi/vrach-uzi",
+      "type": "spec"
+    },
+    {
+      "title": "Гастроэнтеролог",
+      "id": "7768",
+      "url": "vrachi/gastroenterolog",
+      "type": "spec"
+    },
+    {
+      "title": "Гериатр",
+      "id": "8374",
+      "url": "vrachi/geriatr",
+      "type": "spec"
+    },
+    {
+      "title": "Геронтолог",
+      "id": "8375",
+      "url": "vrachi/gerontolog",
+      "type": "spec"
+    },
+    {
+      "title": "Гинеколог",
+      "id": "8387",
+      "url": "vrachi/ginekolog",
+      "type": "spec"
+    },
+    {
+      "title": "Гинеколог-эндокринолог",
+      "id": "8388",
+      "url": "vrachi/ginekolog-endokrinolog",
+      "type": "spec"
+    },
+    {
+      "title": "Гипнотерапевт",
+      "id": "7771",
+      "url": "vrachi/gipnoterapevt",
+      "type": "spec"
+    },
+    {
+      "title": "Гирудолог",
+      "id": "7772",
+      "url": "vrachi/girudolog",
+      "type": "spec"
+    },
+    {
+      "title": "Гирудотерапевт",
+      "id": "7773",
+      "url": "vrachi/girudoterapevt",
+      "type": "spec"
+    },
+    {
+      "title": "Гомеопат",
+      "id": "7774",
+      "url": "vrachi/gomeopat",
+      "type": "spec"
+    },
+    {
+      "title": "Аллерголог Тест",
+      "id": "94401",
+      "url": "vrachi/allergolog1",
+      "type": "spec1"
+    },
+    {
+      "title": "Андролог Тест",
+      "id": "116901",
+      "url": "vrachi/androlog1",
+      "type": "spec1"
+    },
+    {
+      "title": "Артролог Тест",
+      "id": "77571",
+      "url": "vrachi/artrolog1",
+      "type": "spec1"
+    },
+    {
+      "title": "Вегетолог Тест",
+      "id": "83851",
+      "url": "vrachi/vegetolog1",
+      "type": "spec1"
+    },
+    {
+      "title": "Вертебролог Тест",
+      "id": "77581",
+      "url": "vrachi/vertebrolog1",
+      "type": "spec1"
+    },
+    {
+      "title": "Вертеброневролог Тест",
+      "id": "77591",
+      "url": "vrachi/vertebronevrolog1",
+      "type": "spec1"
+    },
+    {
+      "title": "Висцеральный массажист Тест",
+      "id": "81701",
+      "url": "vrachi/visczeralnyj-massazhist1",
+      "type": "spec1"
+    },
+    {
+      "title": "Висцеральный терапевт Тест",
+      "id": "77601",
+      "url": "vrachi/visczeralnyij-terapevt1",
+      "type": "spec1"
+    },
+    {
+      "title": "Врач восточной медицины Тест",
+      "id": "77631",
+      "url": "vrachi/vrach-vostochnoj-mediczinyi1",
+      "type": "spec1"
+    },
+    {
+      "title": "Врач китайской медицины Тест",
+      "id": "77641",
+      "url": "vrachi/vrach-kitayskoy-mediciny1",
+      "type": "spec1"
+    },
+    {
+      "title": "Врач ЛФК Тест",
+      "id": "77611",
+      "url": "vrachi/vrach-1lfk",
+      "type": "spec1"
+    },
+    {
+      "title": "Врач общей практики Тест",
+      "id": "77651",
+      "url": "vrachi/vrach-obshhey-praktiki1",
+      "type": "spe1c"
+    },
+    {
+      "title": "Врач первичного приёма Тест",
+      "id": "77661",
+      "url": "vrachi/vrach-pervichnogo-priema1",
+      "type": "spec1"
+    },
+    {
+      "title": "Врач тибетской медицины Тест",
+      "id": "77671",
+      "url": "vrachi/vrach-tibetskoy-mediciny1",
+      "type": "spec1"
+    },
+    {
+      "title": "Врач УВТ Тест",
+      "id": "77621",
+      "url": "vrachi/vrach-uvt1",
+      "type": "spec1"
+    },
+    {
+      "title": "Врач УЗИ Тест",
+      "id": "83861",
+      "url": "vrachi/vrach-uzi1",
+      "type": "spec1"
+    },
+    {
+      "title": "Гастроэнтеролог Тест",
+      "id": "77681",
+      "url": "vrachi/gastroenterolog1",
+      "type": "spec1"
+    },
+    {
+      "title": "Гериатр Тест",
+      "id": "83741",
+      "url": "vrachi/geriatr1",
+      "type": "spec1"
+    },
+    {
+      "title": "Геронтолог Тест",
+      "id": "83751",
+      "url": "vrachi/gerontolog1",
+      "type": "spec1"
+    },
+    {
+      "title": "Гинеколог Тест",
+      "id": "83871",
+      "url": "vrachi/ginekolog1",
+      "type": "spec1"
+    },
+    {
+      "title": "Гинеколог-эндокринолог Тест",
+      "id": "83881",
+      "url": "vrachi/ginekolog-endokrinolog1",
+      "type": "spec1"
+    },
+    {
+      "title": "Гипнотерапевт Тест",
+      "id": "77711",
+      "url": "vrachi/gipnoterapevt1",
+      "type": "spec1"
+    },
+    {
+      "title": "Гирудолог Тест",
+      "id": "77721",
+      "url": "vrachi/girudolog1",
+      "type": "spec1"
+    },
+    {
+      "title": "Гирудотерапевт Тест",
+      "id": "77731",
+      "url": "vrachi/girudoterapevt1",
+      "type": "spec1"
+    },
+    {
+      "title": "Гомеопат Тест",
+      "id": "77741",
+      "url": "vrachi/gomeopat1",
+      "type": "spec1"
+    }
+  ]
+}
